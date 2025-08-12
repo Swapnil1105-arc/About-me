@@ -1,4 +1,4 @@
-README
+
 👋 Hello there, I’m Swapnil Gupta 
 (ig @swapnil___gupta)
 
