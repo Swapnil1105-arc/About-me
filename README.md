@@ -1,9 +1,9 @@
 
-👋 Hello there, I’m Swapnil Gupta 
+# 👋 Hello there, I’m Swapnil Gupta 
 
 (ig @swapnil___gupta)
 
-🧠 About Me
+# 🧠 About Me
 
 I’m a Computer Science & Engineering undergraduate at Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU).
 
