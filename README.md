@@ -7,13 +7,13 @@
 
 I’m a Computer Science & Engineering undergraduate at Zakir Hussain College of Engineering and Technology (ZHCET), Aligarh Muslim University (AMU).
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 
 Python Data Structures and Algorithms (DSA)
 Problem Solving & Competitive Programming
 Foundations of Data Science and Machine Learning
 
-🤝 Looking to Collaborate On
+# 🤝 Looking to Collaborate On
 
 Real-world, beginner-friendly open source projects
 
@@ -27,13 +27,13 @@ Algorithm-intensive or data-driven applications
 
 Real-world projects for skill-building and impact
 
-📫 Reach Me At
+# 📫 Reach Me At
 
 📧 Email:swapnilgupta064@gmail.com
 
 🧑‍💻 GitHub: github.com/Swapnil1105-arc
 
-🎓 Education
+# 🎓 Education
 
 Zakir Hussain College of Engineering and Technology (ZHCET) Aligarh Muslim University, Aligarh
 
@@ -41,6 +41,6 @@ Bachelor of Technology in Computer Science & Engineering
 
 Expected Graduation: [2029]
 
-😄 Pronouns
+ # 😄 Pronouns
 
 He / Him / His
